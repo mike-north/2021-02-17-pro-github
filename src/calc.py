@@ -21,3 +21,6 @@ def sub(a, b):
 
 def mult(x, y):
     return x * y
+
+def div(a, b):
+    return a / b
