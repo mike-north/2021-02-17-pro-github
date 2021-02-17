@@ -18,3 +18,6 @@ def sub(a, b):
     ```
     """
     return a - b
+
+def mult(x, y):
+    return x * y
